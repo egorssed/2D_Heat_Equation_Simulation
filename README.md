@@ -1,4 +1,4 @@
-# 2D_Heat_Equation_Comp_Math
+# 2D_Heat Equation modelling
 Modelling solution of 2D heat equation with different border conditions
 
 
