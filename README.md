@@ -4,7 +4,7 @@ Modelling solution of 2D heat equation with different border conditions
 
 <figure>
   <figtitle>Zone distribution</figtitle>
-  <img src="./Zone_distibution.jpg.png" width="700" height="400">
+  <img src="./Zone_distibution.jpg" width="700" height="400">
 </figure>
 
 
